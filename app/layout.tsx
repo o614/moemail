@@ -99,7 +99,7 @@ export default function RootLayout({
             {children}
           </Providers>
           <Toaster />
-          <FloatMenu />
+          
         </ThemeProvider>
       </body>
     </html>
